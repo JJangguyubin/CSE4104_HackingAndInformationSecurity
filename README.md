@@ -16,3 +16,10 @@
 | Lab #1   | Warm-up Exercise                  | 100 / 100  |
 | Lab #2   | Buffer Overflow && Stack Canary   | 100 / 100  |
 | Lab #3   | ROP && Challenges                 | 100 / 100  |
+
+---
+
+## Additional Notes && Warning
+- 각 Lab의 세부 내용과 구현 방법은 해당 디렉토리 내의 Ppt && Report를 참고해주세요.
+- 모든 Lab Assignment은 **100 / 100**의 완벽한 점수로 완료되었습니다.
+- 교수님의 요청에 따라, 이후 수강 학생들의 공평성을 위해 이 Repository는 private으로 유지되고 있습니다.
